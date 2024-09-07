@@ -29,6 +29,8 @@ Esse projeto é um **Guia de Emergências** simples e direto, pensado para momen
 * **Esse guia não substitui um profissional de saúde.** É só uma ferramenta para te ajudar em situações de emergência.
 * **Os dados são apenas informativos.** Verifique sempre as informações com fontes confiáveis.
 
+*Projeto ainda em desenvolvimento para incluir a busca por áudio e resposta em áudio, para situações com emergências mais críticas.*
+
 **Créditos:** 
 
 * **Ideia original:** Eu mesma! 
