@@ -1,4 +1,4 @@
-## **README.md para o seu Guia de Emergências. Projeto desenvolvido na Imersão Dev Alura e Google Gemini**
+## **Help Guide, um Guia de Emergências. Projeto desenvolvido na Imersão Dev Alura e Google Gemini**
 
 ### **Cada minuto pode salvar vidas!** 
 
